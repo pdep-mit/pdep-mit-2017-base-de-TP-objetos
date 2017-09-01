@@ -1,0 +1,63 @@
+
+describe "Entrega 1 - Presentaciones" {
+
+	test "Cuanto cobra Joaquin en una presentacion compartida" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Cuanto cobra Joaquin en una presentacion individual" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Capacidad de la Trastienda para un sabado" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Capacidad de la Trastienda si no es para un sabado" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Cuanto cobra Lucia tocando en el Luna Park" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Cuanto cobra Lucia tocando en la Trastienda" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Cuanto cobra Luis Alberto tocando en una presentacion proxima" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Cuanto cobra Luis Alberto tocando en una presentacion lejana" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Costo total para una presentacion en el Luna Park" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Costo total para una presentacion en la Trastienda" {
+
+		assert.fail("Falta implementar")
+
+	}
+}

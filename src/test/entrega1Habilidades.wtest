@@ -1,0 +1,42 @@
+
+describe "Entrega 1 - Habilidades" {
+
+	test "Habilidad de Joaquin con Pimpinela" {
+
+		assert.fail("Falta implementar")
+
+	}
+	test "Habilidad de Joaquin como solista" {
+
+		assert.fail("Falta implementar")
+
+	}
+	test "Habilidad de Lucia con Pimpinela" {
+
+		assert.fail("Falta implementar")
+
+	}
+	test "Habilidad de Lucia como solista" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Habilidad de Luis Alberto con la Fender" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Habilidad de Luis Alberto con la Gibson sana" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Habilidad de Luis Alberto con la Gibson maltratada" {
+
+		assert.fail("Falta implementar")
+
+	}
+}

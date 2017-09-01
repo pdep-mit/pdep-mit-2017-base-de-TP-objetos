@@ -1,0 +1,39 @@
+
+describe "Entrega 1 - Interpretaciones" {
+
+	test "Joaquin no interpreta bien La Familia por durar menos de 300 segundos" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Joaquin interpreta bien Cisne por durar mas 300 segundos" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Lucia interpreta bien La Familia" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Lucia no interpreta bien Cisne porque no dice familia" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Luis Alberto interpreta bien La Familia porque es muy groso" {
+
+		assert.fail("Falta implementar")
+
+	}
+	
+	test "Luis Alberto interpreta bien Cisne porque es muy groso" {
+
+		assert.fail("Falta implementar")
+
+	}
+}
