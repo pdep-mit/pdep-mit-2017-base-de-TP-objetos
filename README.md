@@ -2,7 +2,9 @@
 
 # Enunciado
 
-[Primera entrega](https://docs.google.com/document/d/1PRT5VRcY8uUtQh2ZqkEqs_Bko9aFUj9IxfSDqMV-rcw/edit?usp=sharing)
+El enunciado se va a ir actualizando gradualmente para cada entrega, vamos a avisar por mail cuando estén disponibles los siguientes requerimientos:
+
+[Link al enunciado](https://docs.google.com/document/d/1PRT5VRcY8uUtQh2ZqkEqs_Bko9aFUj9IxfSDqMV-rcw/edit?usp=sharing)
 
 # Cómo organizar la solución
 
